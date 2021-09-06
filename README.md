@@ -10,4 +10,4 @@ where I received exposure to project management, user outreach, and UI/UX design
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=KMKINGMAN&theme=gruvbox)
 ![stats](https://github-readme-stats.vercel.app/api?username=KMKINGMAN&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeKINGMAN&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMKINGMAN&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
